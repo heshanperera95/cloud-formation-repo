@@ -1,0 +1,4 @@
+template-file-path: 2-first-hands-on/1-creating-s3-bucket.yaml
+parameters:
+  name: hello
+tags: {}
